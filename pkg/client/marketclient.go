@@ -3,10 +3,10 @@ package client
 import (
 	"encoding/json"
 	"errors"
-	"github.com/huobirdcenter/huobi_golang/internal"
-	"github.com/huobirdcenter/huobi_golang/internal/requestbuilder"
-	"github.com/huobirdcenter/huobi_golang/pkg/model"
-	"github.com/huobirdcenter/huobi_golang/pkg/model/market"
+	"github.com/aviyu/huobi/internal"
+	"github.com/aviyu/huobi/internal/requestbuilder"
+	"github.com/aviyu/huobi/pkg/model"
+	"github.com/aviyu/huobi/pkg/model/market"
 	"strconv"
 )
 

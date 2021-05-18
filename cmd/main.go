@@ -1,21 +1,21 @@
 package main
 
 import (
-	"github.com/huobirdcenter/huobi_golang/cmd/accountclientexample"
-	"github.com/huobirdcenter/huobi_golang/cmd/accountwebsocketclientexample"
-	"github.com/huobirdcenter/huobi_golang/cmd/algoorderclientexample"
-	"github.com/huobirdcenter/huobi_golang/cmd/commonclientexample"
-	"github.com/huobirdcenter/huobi_golang/cmd/crossmarginclientexample"
-	"github.com/huobirdcenter/huobi_golang/cmd/etfclientexample"
-	"github.com/huobirdcenter/huobi_golang/cmd/isolatedmarginclientexample"
-	"github.com/huobirdcenter/huobi_golang/cmd/marketclientexample"
-	"github.com/huobirdcenter/huobi_golang/cmd/marketwebsocketclientexample"
-	"github.com/huobirdcenter/huobi_golang/cmd/orderclientexample"
-	"github.com/huobirdcenter/huobi_golang/cmd/orderwebsocketclientexample"
-	"github.com/huobirdcenter/huobi_golang/cmd/stablecoinclientexample"
-	"github.com/huobirdcenter/huobi_golang/cmd/subuserclientexample"
-	"github.com/huobirdcenter/huobi_golang/cmd/walletclientexample"
-	"github.com/huobirdcenter/huobi_golang/logging/perflogger"
+	"github.com/aviyu/huobi/cmd/accountclientexample"
+	"github.com/aviyu/huobi/cmd/accountwebsocketclientexample"
+	"github.com/aviyu/huobi/cmd/algoorderclientexample"
+	"github.com/aviyu/huobi/cmd/commonclientexample"
+	"github.com/aviyu/huobi/cmd/crossmarginclientexample"
+	"github.com/aviyu/huobi/cmd/etfclientexample"
+	"github.com/aviyu/huobi/cmd/isolatedmarginclientexample"
+	"github.com/aviyu/huobi/cmd/marketclientexample"
+	"github.com/aviyu/huobi/cmd/marketwebsocketclientexample"
+	"github.com/aviyu/huobi/cmd/orderclientexample"
+	"github.com/aviyu/huobi/cmd/orderwebsocketclientexample"
+	"github.com/aviyu/huobi/cmd/stablecoinclientexample"
+	"github.com/aviyu/huobi/cmd/subuserclientexample"
+	"github.com/aviyu/huobi/cmd/walletclientexample"
+	"github.com/aviyu/huobi/logging/perflogger"
 )
 
 func main() {

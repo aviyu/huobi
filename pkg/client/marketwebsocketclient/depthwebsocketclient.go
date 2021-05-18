@@ -3,9 +3,9 @@ package marketwebsocketclient
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/huobirdcenter/huobi_golang/logging/applogger"
-	"github.com/huobirdcenter/huobi_golang/pkg/client/websocketclientbase"
-	"github.com/huobirdcenter/huobi_golang/pkg/model/market"
+	"github.com/aviyu/huobi/logging/applogger"
+	"github.com/aviyu/huobi/pkg/client/websocketclientbase"
+	"github.com/aviyu/huobi/pkg/model/market"
 )
 
 // Responsible to handle Depth data from WebSocket

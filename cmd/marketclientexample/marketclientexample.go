@@ -1,10 +1,10 @@
 package marketclientexample
 
 import (
-	"github.com/huobirdcenter/huobi_golang/config"
-	"github.com/huobirdcenter/huobi_golang/logging/applogger"
-	"github.com/huobirdcenter/huobi_golang/pkg/client"
-	"github.com/huobirdcenter/huobi_golang/pkg/model/market"
+	"github.com/aviyu/huobi/config"
+	"github.com/aviyu/huobi/logging/applogger"
+	"github.com/aviyu/huobi/pkg/client"
+	"github.com/aviyu/huobi/pkg/model/market"
 )
 
 func RunAllExamples() {
